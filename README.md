@@ -2,7 +2,11 @@
 Machine learning DevOps at [Canonical](https://canonical.com/)\
 Working on [Kubeflow project](https://www.kubeflow.org/docs/about/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-MichalHucko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michal-hucko/)](https://www.linkedin.com/in/michal-hucko/) [![Twitter Badge](https://img.shields.io/badge/-@MichalHucko-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MichalHucko)](https://twitter.com/MichalHucko)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/informatikasmisom/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/InformatikaSMisom)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-hucko/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MichalHucko)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)]
 
 Checkout my Slovak YouTube channel: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChfHPD-cztBLoI-DJyRoSDQ?style=social)](https://www.youtube.com/channel/UChfHPD-cztBLoI-DJyRoSDQ)\
 Checkout my English YuouTube chennel: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3txju_D3cN_ETf5UmllydA?style=social)](https://www.youtube.com/channel/UC3txju_D3cN_ETf5UmllydA)

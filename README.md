@@ -1,4 +1,13 @@
-### Hi there 👋
+### Machine learning DevOps + Youtuber
+Machine learning DevOps at [Canonical](https://canonical.com/)\
+Working on [Kubeflow project](https://www.kubeflow.org/docs/about/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-MichalHucko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michal-hucko/)](https://www.linkedin.com/in/michal-hucko/) [![Twitter Badge](https://img.shields.io/badge/-@MichalHucko-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MichalHucko)](https://twitter.com/MichalHucko)
+
+Checkout my Slovak YouTube channel: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChfHPD-cztBLoI-DJyRoSDQ?style=social)](https://www.youtube.com/channel/UChfHPD-cztBLoI-DJyRoSDQ)\
+Checkout my English YuouTube chennel: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3txju_D3cN_ETf5UmllydA?style=social)](https://www.youtube.com/channel/UC3txju_D3cN_ETf5UmllydA)
+
+
 
 <!--
 **misohu/misohu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
